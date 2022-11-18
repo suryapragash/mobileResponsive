@@ -13,10 +13,10 @@ function Head() {
           </ul>
         </div>
         <div className="nav-bar ms-auto py-3 ">
-          <button type="button" class="btn bg-white me-2 p-2 gett">
+          <button type="button" class="btn-sm bg-white me-2 p-2 gett">
             I am a chef
           </button>
-          <button type="button" class="btn bg-white p-2 gett">
+          <button type="button" class="btn-sm bg-white p-2 gett">
             I am a custumer
           </button>
         </div>

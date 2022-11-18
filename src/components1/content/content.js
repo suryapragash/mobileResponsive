@@ -35,7 +35,7 @@ function Content() {
           <div class="carousel-item active h-100">
             <img
               src="https://images.pexels.com/photos/956981/milky-way-starry-sky-night-sky-star-956981.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-              class="d-block w-100"
+              class="d-block w-100 img-fluid position-relative"
               alt="images"
             />
             <div class=" carousel-caption py-5 pt-5 h-100">
@@ -43,7 +43,7 @@ function Content() {
               <h1 className="d-flex le"> every mood</h1>
               <p class="lead mb-4 d-flex le">Explore Homemade delicacies</p>
 
-              <div class="input-group mb-3 my-5 w-50">
+              <div class="input-group mb-3 my-5 w-50 position-absolute">
                 <input
                   type="text"
                   class="form-control position-relative"

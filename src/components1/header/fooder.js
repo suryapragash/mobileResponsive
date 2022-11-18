@@ -8,7 +8,7 @@ function Fooder() {
     <section className="background">
       <div className="container ">
         <div className="row d-flex pt-5 mb-0">
-          <div className="p-3 col-6 ">
+          <div className="p-3 col-sm-6 ">
             <ul>
               <a href="#" id="logo">
                 <img src={img} alt="logo" height="130px" width="140px"></img>
@@ -16,7 +16,7 @@ function Fooder() {
             </ul>
           </div>
 
-          <div className="px-5 text-white d-flex col-3">
+          <div className="px-5 text-white d-flex col-sm-3">
             <div className="text-end">
               <p>Mission</p>
               <p>FAQ</p>
@@ -27,7 +27,7 @@ function Fooder() {
             <div className="vl"></div>
           </div>
 
-          <div className="col-3 ">
+          <div className="col-sm-3 ">
             <a className="text-white dec">Get in touch with us at </a>
             <a className="text-warning pe-5">support@thecheflane.com</a>
 
