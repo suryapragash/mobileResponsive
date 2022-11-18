@@ -1,7 +1,101 @@
-* {
-  margin: 0;
-  padding: 0;
+.background {
+  background-color: #08316d;
+  font-family: "Gotham";
+  font-style: normal;
 }
-.hi {
-  background-color: aqua;
+.get {
+  color: #08316d;
+  font-family: "Gotham";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 42px;
+}
+.gett {
+  font-family: "Gotham";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 18px;
+}
+
+.hello {
+  position: absolute;
+  width: 1627px;
+  height: 1699px;
+}
+.photo {
+  height: 117px;
+  width: 117px;
+  top: 800px;
+  left: 686px;
+  border: none;
+}
+.heig {
+  height: 560px;
+}
+.sty {
+  padding-top: 135px;
+  font-family: "Gotham";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 42px;
+}
+.le {
+  font-family: "Gotham";
+  font-style: normal;
+}
+.opp {
+  opacity: 100%;
+  background-color: white;
+  border: solid 2px;
+}
+.try {
+  font-family: "Gotham";
+  font-style: normal;
+  font-weight: 350;
+  font-size: 16px;
+  line-height: 18px;
+  color: #25282b;
+}
+.tryy {
+  font-family: "Gotham";
+  font-style: normal;
+}
+.con {
+  font-family: "Gotham";
+  font-style: normal;
+  font-weight: 350;
+  font-size: 18px;
+  color: #25282b;
+}
+.tex {
+  color: #d8af49;
+}
+.swip {
+  font-family: "Gotham";
+  font-style: normal;
+  font-weight: 325;
+  font-size: 16px;
+  line-height: 18px;
+}
+.trans {
+  background-color: transparent;
+}
+.to {
+  top: 6px;
+  position: relative;
+  right: 100px;
+}
+.too {
+  top: 7px;
+  right: 424px;
+}
+.vl {
+  height: 160px;
+  border: 0.5px solid gray;
+  margin-left: 47px;
+}
+.dec {
+  text-decoration: none;
 }
