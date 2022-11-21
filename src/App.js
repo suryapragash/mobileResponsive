@@ -1,10 +1,9 @@
-import "./App.css";
-import Crud from "./component2/add";
+import Task from "./component2/tasks2";
+
 function App() {
   return (
-    <div className="App">
-      <h1>Hello Surya</h1>
-      <Crud />
+    <div className="App  ">
+      <Task />
     </div>
   );
 }
