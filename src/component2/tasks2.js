@@ -30,7 +30,7 @@ function Task() {
     <div class="dropdown text-center p-5">
       <span className="fs-3">Input type</span>
       <button
-        class="btn btn-secondary dropdown-toggle "
+        class="btn btn-secondary mx-2 dropdown-toggle "
         type="button"
         id="dropdownMenuButton1"
         data-bs-toggle="dropdown"
